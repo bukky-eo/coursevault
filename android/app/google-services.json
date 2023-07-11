@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80699332881",
+    "project_id": "coursevault-d104b",
+    "storage_bucket": "coursevault-d104b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80699332881:android:8880327547c5405c9614b0",
+        "android_client_info": {
+          "package_name": "com.example.coursevault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEEgbiosqxw9bP32hYrMNpBDCg4OnkEf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
